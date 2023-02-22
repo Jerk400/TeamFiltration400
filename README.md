@@ -40,7 +40,7 @@ This tool has been used internally since January 2021 and was publicly released 
    ╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝
 
 [♥] TeamFiltration V3.5.0 PUBLIC, created by @Flangvik at @TrustedSec
-[+] Args parsed --outpath F:\Clients\Ongoing Engagments\TeamFiltration --config .\config.txt --spray --aad-sso --help
+[+] Args parsed --outpath F:\Clients\1337\TeamFiltration --config .\config.txt --spray --aad-sso --help
 Usage:
 
    --outpath     Output path to store database and exfiltrated information (Needed for all modules)
